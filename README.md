@@ -44,3 +44,13 @@ Unit 7
 70gff.py
 71gff.py
 
+
+Unit 8
+======
+
+colorname.py
+imetertrainer.py
+imeterdecoder.py
+overlap2.py
+smithwaterman.py
+
